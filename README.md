@@ -39,6 +39,12 @@ Em resumo, o ResumDocs é uma aplicação web poderosa e intuitiva, oferecendo u
 
 ## Imagens do Aplicativo:
 
+### Tela principal
+<img align="center" alt="ResumDocsPrincipal" src="https://github.com/MateusMaccos/ResumDocsAI/blob/main/src/assets/resumdocs.png">
+
+### Tela depois de inserir link do texto
+<img align="center" alt="ResumDocsLink" src="https://github.com/MateusMaccos/ResumDocsAI/blob/main/src/assets/resumdocs2.png">
+
 
 
 
