@@ -35,6 +35,8 @@
 
 Em resumo, o ResumDocs é uma aplicação web poderosa e intuitiva, oferecendo uma experiência amigável ao usuário para criar e gerenciar resumos com facilidade e eficiência.
 
+Créditos: https://github.com/adrianhajdin
+
 ---
 
 ## Imagens do Aplicativo:
